@@ -1,0 +1,39 @@
+arithmetic
+# Defining variables
+a = 12
+b = 6
+
+# Arithmetic operations
+sum_result = a + b
+difference = a - b
+product = a * b
+quotient = a / b
+remainder = a % b
+exponent = a ** b
+
+# Displaying the results
+print("Sum:", sum_result)
+print("Difference:", difference)
+print("Product:", product)
+print("Quotient:", quotient)
+print("Remainder:", remainder)
+print("Exponentiation:", exponent)
+
+string
+# Defining strings
+first_name = "doreen"
+last_name = "ann"
+
+# Concatenating strings
+full_name = first_name + " " + last_name
+
+# String operations
+name_length = len(full_name)
+first_char = full_name[0]
+last_char = full_name[-1]
+
+# Displaying the results
+print("Full Name:", full_name)
+print("Length of Full Name:", name_length)
+print("First Character:", first_char)
+print("Last Character:", last_char)
